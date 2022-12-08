@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "d8c7ca21376dca5196e0ced8fb0f39d4b2841ed038d568b651e36feb72921539"
+build_start_time: [1670408498, 408369064]
+build_end_time: [1670408502, 788188934]
+inputs:
+  "/Users/senatoprakci/Documents/calismalar/dashboard_ui/macos/Flutter/GeneratedPluginRegistrant.swift": [1670408489, 950339317]
+  "/Users/senatoprakci/Documents/calismalar/dashboard_ui/macos/Runner/AppDelegate.swift": [1669220893, 0]
+  "/Users/senatoprakci/Documents/calismalar/dashboard_ui/macos/Runner/MainFlutterWindow.swift": [1669220893, 0]
